@@ -1,0 +1,85 @@
+.Followers,
+.Following,
+.Post {
+  font-size: 18px;
+  font-weight: 500;
+  color: #33363b;
+}
+
+
+
+.Card {
+  width: 360px;
+  height: Auto;
+  background-color: #ffffff;
+  margin: 0 Auto;
+  margin-top: 80px;
+  box-shadow: 0px 1px 3px 0px Rgba(0, 0, 0, 0.15);
+  text-align: Center;
+  
+}
+
+.Card_profile_img {
+  width: 120px;
+  height: 120px;
+  background-color: #868d9b;
+  background: Url("Https://Source.Unsplash.Com/7Sz71zuuW4k");
+  background-repeat: No-Repeat;
+  background-size: Cover;
+  background-position: Center;
+  border: 2px Solid #ffffff;
+  border-radius: 120px;
+  margin: 0 Auto;
+  margin-top: -60px;
+}
+
+.Card_background_img {
+  width: 100%;
+  height: 180px;
+  background-color: #e1e7ed;
+  background: Url("Https://Source.Unsplash.Com/9wg5jCEPBsw");
+  background-repeat: No-Repeat;
+  background-size: Cover;
+  background-position: Center;
+}
+
+.User_details P {
+  margin-bottom: 20px;
+  margin-top: -5px;
+}
+
+.User_details h3 {
+  margin-top: 10px;
+}
+
+.Card_count {
+  padding: 30px;
+  border-top: 1px Solid #dde1e7;
+}
+
+.Count {
+  display: Flex;
+  align-items: Center;
+  justify-content: Space-Between;
+  margin-bottom: 28px;
+}
+
+.Count p {
+  margin-top: 10px;
+}
+
+.Btn {
+  padding: 16px;
+  width: 90%;
+  border: None;
+  outline: None;
+  border-radius: 4px;
+  background-color: #24c5a1;
+  color: #ffffff;
+  cursor: Pointer;
+  text-align: Center;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: Uppercase;
+  
+}
