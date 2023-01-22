@@ -77,9 +77,10 @@ const editTexthandler =(e) =>{
         </div>
         <div className="post__headerDescription">
           <input type="text" placeholder="what's happening !!!" value={tweet} onChange={editTexthandler}/>
+          <button onClick={handleEditSubmit}>Update</button>
         </div>
       </div>
-      <button onClick={handleEditSubmit}>Update</button>
+      
     </div>
   </div>}
   

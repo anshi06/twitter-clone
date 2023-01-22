@@ -6,7 +6,6 @@
   
   .tweetBox > form {
     display: flex;
-    flex-direction: column;
   }
   
   .tweetBox__input {
@@ -22,11 +21,6 @@
     outline: none;
   }
   
-  .tweetBox__imageInput {
-    border: none;
-    padding: 10px;
-    outline: none;
-  }
   
   .tweetBox__tweetButton {
     background-color: var(--twitter-color) !important;

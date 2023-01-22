@@ -6,16 +6,15 @@
   color: #33363b;
 }
 
-
-
 .Card {
-  width: 360px;
+  width: 400px;
   height: Auto;
   background-color: #ffffff;
   margin: 0 Auto;
   margin-top: 80px;
   box-shadow: 0px 1px 3px 0px Rgba(0, 0, 0, 0.15);
   text-align: Center;
+  border-radius: 10px;
   
 }
 
@@ -24,7 +23,6 @@
   height: 120px;
   background-color: #868d9b;
   background: Url("Https://Source.Unsplash.Com/7Sz71zuuW4k");
-  background-repeat: No-Repeat;
   background-size: Cover;
   background-position: Center;
   border: 2px Solid #ffffff;
@@ -38,9 +36,8 @@
   height: 180px;
   background-color: #e1e7ed;
   background: Url("Https://Source.Unsplash.Com/9wg5jCEPBsw");
-  background-repeat: No-Repeat;
-  background-size: Cover;
   background-position: Center;
+  border-radius: 10px;
 }
 
 .User_details P {
@@ -81,5 +78,4 @@
   font-size: 14px;
   font-weight: 600;
   text-transform: Uppercase;
-  
 }

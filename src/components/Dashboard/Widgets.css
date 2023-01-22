@@ -1,5 +1,5 @@
 .widgets {
-    flex: 0.3;
+    flex: 0.4;
   }
   
   .widgets__input {
@@ -33,7 +33,6 @@
   .widgets__widgetContainer > h2 {
     font-size: 18px;
     font-weight: 800;
-    
   }
   #tweets{
     height: 600px;

@@ -57,9 +57,9 @@ const Login = () => {
   
   return (
     <div className="main">
-      <div className="sub-main">
+      <div className="sub-main"> 
         <div>
-          <div className="imgs">
+          <div className="imgs"> 
             <div className="container-image">
               <img src={profile} alt="profile" className="profile" />
             </div>

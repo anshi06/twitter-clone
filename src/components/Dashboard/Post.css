@@ -13,21 +13,11 @@
   .post__avatar {
     padding: 20px;
   }
-  
-  .post__body > img {
-    border-radius: 20px;
-    width: 100%;
-  }
-  
+
   .post__footer {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
-  }
-  
-  .post__badge {
-    font-size: 14px !important;
-    color: var(--twitter-color);
   }
   
   .post__headerText > h3 {
@@ -44,16 +34,22 @@
   .post__headerDescription {
     margin-bottom: 10px;
     font-size: 15px;
+    display: flex;
+    justify-content: space-between;
   }
   .post  input {
     border-radius: 5px;
-    width: 300px;
+    width: 500px;
     height: 30px;
-    background-color: rgb(245, 228, 230);
+    font-size: medium;
+    border: none;
+    outline: none;
   }
   .post button {
     border-radius: 9px;
     background-color: var(--twitter-color);
     border-color: var( --twitter-color);
     width: 80px;
+    border: none;
+    opacity: 0.9;
   }
