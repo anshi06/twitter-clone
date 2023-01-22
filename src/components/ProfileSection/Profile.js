@@ -6,8 +6,8 @@ const Profile = () => {
         <div className="Card_background_img"></div>
         <div className="Card_profile_img"></div>
         <div className="User_details">
-            <h3>Arun Ramsay</h3>
-            <p>@arun || Programmer</p>
+            <h3>John Mark</h3>
+            <p>@johncoder || Programmer</p>
         </div>
         <div className="Card_count">
             <div className="Count">

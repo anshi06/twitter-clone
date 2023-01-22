@@ -14,30 +14,30 @@ import Tweets from "./Tweets";
 function Feed() {
   const posts = [
     {
-      id: Math.round(Math.random() * 1000 + 1),
-      name: "user1",
-      username: "@usernameOfuser1",
+      id: 1,
+      name: "Alen Rif",
+      username: "alenrif",
       text: "This is twitter clone not a real one build using ReactJs, HTML, CSS Only Hardcoded data is used to display the fake tweets.",
       avatarurl : post
     },
     {
-      id: Math.round(Math.random() * 1000 + 1),
-      name: "user2",
-      username: "usernameOfuser2",
+      id: 2,
+      name: "Olivia",
+      username: "oliviaaa",
       text: "Fake Tweets don't have edit or delete button because it is assumed that these tweets are done by other users",
       avatarurl : post2
     },
     {
-      id: Math.round(Math.random() * 1000 + 1),
-      name: "user3",
-      username: "usernameOfuser3",
+      id: 3,
+      name: "George",
+      username: "georgereece",
       text: "Those tweets which will be created by user which is on twitter login page only those tweets are ediatable and deletable",
       avatarurl : post3
     },
     {
-      id: Math.round(Math.random() * 1000 + 1),
-      name: "user4",
-      username: "usernameOfuser4",
+      id: 4,
+      name: "James",
+      username: "jcharlie",
       text: "Right section is created using twitter tweet embeded which is react library and we can get tweets from twitter just via using twitter id",
       avatarurl : profile
     },
@@ -71,8 +71,8 @@ function Feed() {
     const updatedResult = [
       {
         id: Math.round(Math.random() * 1000 + 1),
-        name: "Arun",
-        username: "arun@gmail",
+        name: "John Mark",
+        username: "johncoder",
         text: tweetMessage,
         avatarurl: "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
       },
