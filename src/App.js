@@ -5,7 +5,6 @@ import Login from "./components/Signup/Login";
 import Profile from "./components/ProfileSection/Profile";
 
 function App() {
-  console.log('Branch-2')
   return (
     <div>
       <BrowserRouter>
