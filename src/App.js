@@ -5,7 +5,7 @@ import Login from "./components/Signup/Login";
 import Profile from "./components/ProfileSection/Profile";
 
 function App() {
-  console.log('Branch-2-copy')
+  console.log('Branch-2-copy-copy')
   return (
     <div>
       <BrowserRouter>
